@@ -1,0 +1,8 @@
+# Ignore .vscode folder
+.vscode/
+
+# Other typical entries
+node_modules/
+.DS_Store
+*.log
+*.tmp
