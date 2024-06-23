@@ -78,4 +78,5 @@ This repository contains various projects completed during my time at 42. Each p
 
 - **Description:** Implementing a ping pong game site.
 - **Skills:** Web development, real-time applications, full-stack programming.
-  For more details, visit: [https://github.com/ft-transcendence-seoul/backend](https://github.com/ft-transcendence-seoul/backend)
+- **For more details, visit:**
+  [https://github.com/ft-transcendence-seoul/backend](https://github.com/ft-transcendence-seoul/backend)
