@@ -6,18 +6,18 @@ This repository contains various projects completed during my time at 42. Each p
 
 ### Libft
 
-- **Description:** Creating my own function library.
-- **Skills:** C programming, library creation, data structures.
+- **Description:** Implementing a custom C library that mimics standard C library functions.
+- **Skills:** Understanding of basic C functions, memory allocation, string manipulation, and data structures.
 
 ### ft_printf
 
-- **Description:** Implementing the printf function using variadic arguments.
-- **Skills:** C programming, variadic functions, formatting.
+- **Description:** Recreating the printf function in C, handling various specifiers and formatting.
+- **Skills:** Variadic functions, formatted output, and deep understanding of standard I/O operations.
 
 ### get_next_line
 
-- **Description:** Reading a line from a file descriptor.
-- **Skills:** File handling, buffer management.
+- **Description:** Writing a function that reads a line from a file descriptor.
+- **Skills:** File I/O operations, buffer management, and efficient memory usage in C.
 
 ### Born2beroot
 
@@ -26,8 +26,8 @@ This repository contains various projects completed during my time at 42. Each p
 
 ### Minitalk
 
-- **Description:** Inter-process communication using UNIX signals.
-- **Skills:** UNIX signals, process communication.
+- **Description:** Implementing inter-process communication using UNIX signals.
+- **Skills:** Signal handling, process management, and low-level UNIX programming in C.
 
 ### So_long
 
@@ -36,23 +36,23 @@ This repository contains various projects completed during my time at 42. Each p
 
 ### Push_swap
 
-- **Description:** Sorting algorithms and data structures.
-- **Skills:** Sorting algorithms, stack, and queue data structures.
+- **Description:** Developing a sorting algorithm using stacks and evaluating its performance.
+- **Skills:** Algorithm design, complexity analysis, and data structure manipulation in C.
 
 ### Minishell
 
-- **Description:** Creating my own shell (first team project).
-- **Skills:** Shell programming, team collaboration, process management.
+- **Description:** Creating my own shell (first team project), Building a simple UNIX shell that can execute commands.
+- **Skills:** Shell programming, team collaboration, process management. Parsing, process creation and control, signal handling, and built-in command implementation in C.
 
 ### Philosopher
 
-- **Description:** Multi-threading and multi-processing.
-- **Skills:** Concurrency, threads, processes.
+- **Description:** Multi-threading and multi-processing. Simulating the dining philosophers problem to understand concurrency.
+- **Skills:** Multi-threading, synchronization primitives, and concurrency control in C.
 
 ### CPP Module
 
-- **Description:** C++ piscine, object-oriented programming.
-- **Skills:** C++ programming, OOP concepts.
+- **Description:** A series of projects focused on learning C++ and object-oriented
+- **Skills:** C++ syntax and semantics, object-oriented design, memory management, template programming, and standard template library (STL) usage.
 
 ### NetPractice
 
@@ -61,13 +61,13 @@ This repository contains various projects completed during my time at 42. Each p
 
 ### Cub3D
 
-- **Description:** Ray casting for 3D graphics.
-- **Skills:** 3D graphics programming, ray casting.
+- **Description:** Creating a 3D game using ray casting techniques.
+- **Skills:** Graphics programming, mathematical computations for 3D rendering, and real-time application development in C.
 
 ### Inception
 
-- **Description:** Services & Docker.
-- **Skills:** Docker, containerization, DevOps.
+- **Description:** Setting up a complete infrastructure using Docker.
+- **Skills:** Docker, containerization, and DevOps principles
 
 ### ft_irc
 
