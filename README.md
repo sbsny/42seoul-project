@@ -1,82 +1,54 @@
-# My 42 Projects
+# 42 프로젝트
 
-This repository contains various projects completed during my time at 42. Each project covers different aspects of programming, from creating custom libraries to building full-fledged applications.
+42에서 진행한 다양한 프로그래밍 작업을 다루고 있으며, 커스텀 라이브러리 제작, 시스템 프로그래밍, 네트워크 통신, 게임 개발 등 다양한 주제와 기술을 포함하고 있습니다.
 
-## Projects
+## 세부 내용
 
 ### Libft
-
-- **Description:** Implementing a custom C library that mimics standard C library functions.
-- **Skills:** Understanding of basic C functions, memory allocation, string manipulation, and data structures.
+- **설명:** 표준 C 라이브러리의 여러 기능을 모방하여 직접 커스텀 라이브러리를 구현했습니다. 이 라이브러리는 문자열 처리, 메모리 할당 및 기본 자료 구조와 같은 기능을 포함하여 C 언어에서의 기본적인 작업을 다룰 수 있도록 설계되었습니다.
 
 ### ft_printf
-
-- **Description:** Recreating the printf function in C, handling various specifiers and formatting.
-- **Skills:** Variadic functions, formatted output, and deep understanding of standard I/O operations.
+- **설명:** C 언어의 printf 함수와 유사하게 다양한 서식 지정자를 지원하는 출력 함수를 직접 구현했습니다. 이를 통해 가변 인자를 처리하고 출력 서식화를 제어할 수 있도록 설계되었습니다.
 
 ### get_next_line
-
-- **Description:** Writing a function that reads a line from a file descriptor.
-- **Skills:** File I/O operations, buffer management, and efficient memory usage in C.
+- **설명:** 파일 디스크립터로부터 한 줄씩 데이터를 읽어오는 기능을 구현한 함수입니다. 메모리 관리와 효율적인 버퍼링을 통해 파일 입출력의 기초 기능을 제공합니다.
 
 ### Born2beroot
-
-- **Description:** Introduction to virtual machines and servers.
-- **Skills:** VirtualBox, Debian, server management.
+- **설명:** VirtualBox와 Debian을 사용하여 가상 서버 환경을 설정하고 관리하는 작업입니다. 사용자는 서버 초기 설정, 사용자 권한 관리, 방화벽 설정 등 서버 운영의 기본을 배울 수 있습니다.
 
 ### Minitalk
-
-- **Description:** Implementing inter-process communication using UNIX signals.
-- **Skills:** Signal handling, process management, and low-level UNIX programming in C.
+- **설명:** UNIX 신호를 사용하여 프로세스 간 통신을 구현한 기능입니다. 하나의 프로세스에서 다른 프로세스로 메시지를 전달할 수 있도록 설계되었으며, 저수준 시스템 프로그래밍과 신호 처리의 기초를 다룹니다.
 
 ### So_long
-
-- **Description:** Creating my own 2D game.
-- **Skills:** Game development, graphics programming.
+- **설명:** 2D 게임 개발을 위한 작업으로, 화면에 캐릭터를 렌더링하고 이동을 구현하여 간단한 게임 개발의 기초를 학습할 수 있는 내용입니다.
 
 ### Push_swap
-
-- **Description:** Developing a sorting algorithm using stacks and evaluating its performance.
-- **Skills:** Algorithm design, complexity analysis, and data structure manipulation in C.
+- **설명:** 스택을 활용하여 숫자 정렬 알고리즘을 구현하고, 이를 최적화하여 효율성을 평가하는 기능입니다. 다양한 정렬 알고리즘과 자료 구조를 사용하여 최소한의 이동 횟수로 정렬을 수행합니다.
 
 ### Minishell
-
-- **Description:** Creating my own shell (first team project), Building a simple UNIX shell that can execute commands.
-- **Skills:** Shell programming, team collaboration, process management. Parsing, process creation and control, signal handling, and built-in command implementation in C.
+- **설명:** UNIX 셸의 기능을 모방하여 기본적인 명령어를 실행할 수 있는 간단한 셸 환경을 구현한 작업입니다. 사용자는 명령어 파싱, 프로세스 생성 및 제어, 신호 처리 등을 경험할 수 있습니다.
 
 ### Philosopher
-
-- **Description:** Multi-threading and multi-processing. Simulating the dining philosophers problem to understand concurrency.
-- **Skills:** Multi-threading, synchronization primitives, and concurrency control in C.
+- **설명:** 철학자 문제를 해결하는 시뮬레이션을 통해 멀티스레딩과 동기화 기법을 구현한 작업입니다. 스레드와 동시성 제어를 통해 경쟁 상태를 관리합니다.
 
 ### CPP Module
-
-- **Description:** A series of projects focused on learning C++ and object-oriented
-- **Skills:** C++ syntax and semantics, object-oriented design, memory management, template programming, and standard template library (STL) usage.
+- **설명:** C++의 문법과 객체 지향 프로그래밍 개념을 학습하기 위한 모듈 작업입니다. 클래스 설계, 상속, 템플릿 프로그래밍 등 C++의 고급 기능들을 다루며, STL(Standard Template Library)을 사용하여 효율적인 프로그램을 작성합니다.
 
 ### NetPractice
-
-- **Description:** Learning about networking.
-- **Skills:** Networking concepts, IP addressing, routing.
+- **설명:** IP 주소 할당 및 라우팅 설정과 같은 네트워크의 기본 개념을 다루며, 네트워크 환경에서의 주소 구성과 연결 설정을 연습합니다.
 
 ### Cub3D
-
-- **Description:** Creating a 3D game using ray casting techniques.
-- **Skills:** Graphics programming, mathematical computations for 3D rendering, and real-time application development in C.
+- **설명:** 레이 캐스팅 기법을 사용하여 간단한 3D 그래픽 렌더링을 구현하는 내용입니다. 2D 맵을 기반으로 3D 공간을 시뮬레이션하며, 실시간으로 그래픽을 렌더링하여 게임의 기초적인 렌더링 방식을 다룹니다.
 
 ### Inception
-
-- **Description:** Setting up a complete infrastructure using Docker.
-- **Skills:** Docker, containerization, and DevOps principles
+- **언어:** Docker, 쉘 스크립트
+- **설명:** Docker를 이용하여 컨테이너 기반 애플리케이션 환경을 구축하고 관리하는 작업입니다. 여러 컨테이너를 사용해 애플리케이션의 배포와 관리 작업을 자동화할 수 있습니다.
 
 ### ft_irc
-
-- **Description:** Building an IRC (Internet Relay Chat) server.
-- **Skills:** Network programming, socket programming, multi-threading.
+- **설명:** C++로 IRC(인터넷 릴레이 채팅) 서버를 직접 구현하여 여러 클라이언트가 소켓 프로그래밍을 통해 채팅할 수 있도록 지원합니다. 네트워크 프로토콜을 사용하여 실시간으로 메시지를 전달합니다.
 
 ### ft_transcendence
-
-- **Description:** Implementing a ping pong game site.
-- **Skills:** Web development, real-time applications, full-stack programming.
-- **For more details, visit:**
+- **언어:** TypeScript, JavaScript (Node.js, React)
+- **설명:** 실시간 핑퐁 게임 사이트를 개발한 작업으로, 웹 개발의 백엔드와 프론트엔드를 모두 다루는 풀스택 애플리케이션입니다.
+- **더 많은 정보는 다음에서 확인:**
   [https://github.com/ft-transcendence-seoul/backend](https://github.com/ft-transcendence-seoul/backend)
